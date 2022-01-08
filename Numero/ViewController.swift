@@ -28,6 +28,7 @@
 
 import UIKit
 
+//Check
 class ViewController: UIViewController {
 
   @IBOutlet weak var scoreLabel: UILabel!
